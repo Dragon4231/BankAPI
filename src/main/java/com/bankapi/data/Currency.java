@@ -1,2 +1,6 @@
-package com.bankapi.data;public enum Currency {
+package com.bankapi.data;
+
+public enum Currency {
+    KZT,
+    RUB
 }

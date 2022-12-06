@@ -1,0 +1,11 @@
+POST http://localhost:8080/newTransaction
+Content-Type: application/json
+
+{
+  "account_from": 0,
+  "account_to": 5,
+  "sum": 100000,
+  "currency_shortname": "RUB",
+  "expense_category": "PRD",
+  "date": "2030-03-21"
+}

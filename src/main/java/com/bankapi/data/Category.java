@@ -1,2 +1,6 @@
-package com.bankapi.data;public enum Category {
+package com.bankapi.data;
+
+public enum Category {
+    PRD,
+    SRV
 }

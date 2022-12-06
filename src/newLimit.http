@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/client/newLimit
+Content-Type: application/json
+
+{
+  "account_id" : 0,
+  "limitForServices": 5555.0
+}
